@@ -1,5 +1,5 @@
 import { Sugestao } from "./generic_components/Sugestao";
-import { User } from "./generic_components/User"
+import { User } from "./generic_components/User";
 
 export function Sidebar () {
     const user = {

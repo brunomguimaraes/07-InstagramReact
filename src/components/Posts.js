@@ -1,4 +1,4 @@
-import { Post } from "./generic_components/Post"
+import { Post } from "./generic_components/Post";
 
 export function Posts () {
     const posts = [

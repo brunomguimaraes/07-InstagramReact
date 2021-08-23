@@ -1,4 +1,4 @@
-import { Story } from "./generic_components/Story"
+import { Story } from "./generic_components/Story";
 
 export function Stories () {
     const  stories = [
